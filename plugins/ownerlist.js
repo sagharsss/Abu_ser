@@ -8,7 +8,7 @@ const config = require('../config');
 const Language = require('../language');
 const Lang = Language.getString('wallpaper');
 
-Asena.addCommand({pattern: 'owner', fromMe: false, desc: 'command give me owner'}, (async (message, match) => {
+Asena.addCommand({pattern: 'owner list', fromMe: false, desc: 'command give me owner'}, (async (message, match) => {
 
     var r_text = new Array ();
     
