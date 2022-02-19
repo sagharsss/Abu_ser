@@ -38,7 +38,7 @@ WhatsAlexa.addCommand({pattern: 'link', fromMe: whb, dontAddCommandList: true}, 
 
       const buttonMessage = {
 
-          contentText: "ʟɪɴᴋs ғᴏʀ ᴀʙᴜ.♡︎",
+          contentText: "♡︎ ᴄʟɪᴠᴋ ᴛᴏ ʙᴜᴛᴛᴏɴ ♡︎",
 
           footerText: '™ᴀʙᴜ ©',
 
